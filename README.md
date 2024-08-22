@@ -5,5 +5,4 @@
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheustakitani&show_icons=true&theme=dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
   
